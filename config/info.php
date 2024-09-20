@@ -6,7 +6,7 @@ return [
         [
             'id' => 'about',
             'name' => 'About',
-            'url' => '/about',
+            'url' => '/portfolio/about',
             'image' => 'images/college.jpeg',
         ],
         [
@@ -38,6 +38,10 @@ return [
         [
             'name' => 'Blog',
             'url' => '/blog',
+        ],
+        [
+            'name' => 'Experience',
+            'url' => '/contact',
         ],
     ],
     'footerlinks' => [
