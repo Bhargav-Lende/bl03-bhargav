@@ -1,7 +1,7 @@
 <x-layout>
     <x-slot:title>Home</x-slot>
     <!-- Home Hero-->
-    <section class="bg-gray-150 dark:bg-gray-700 pt-12 sm:pt-16 lg:pt-20">
+    <section class="bg-gray-50 dark:bg-gray-900 pt-12 sm:pt-16 lg:pt-20">
         <div
           class="mx-auto max-w-2xl px-4 sm:px-6 lg:flex lg:max-w-screen-2xl lg:items-start lg:px-8"
         >
