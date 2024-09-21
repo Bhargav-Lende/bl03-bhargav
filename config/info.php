@@ -4,6 +4,12 @@ return [
     'sitename' => 'Bhargav Lende',
     'navlinks' => [
         [
+            'id' => 'home',
+            'name' => 'Home',
+            'url' => '/',
+            'image' => 'images/home.jpeg',
+        ],
+        [
             'id' => 'about',
             'name' => 'About',
             'url' => '/portfolio/about',
