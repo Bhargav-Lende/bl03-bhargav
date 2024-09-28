@@ -13,7 +13,7 @@ return [
             'id' => 'about',
             'name' => 'About',
             'url' => '/portfolio/about',
-            'image' => 'images/college.jpeg',
+            'image' => 'images/train.png',
         ],
         [
             'id' => 'contact',
@@ -69,11 +69,6 @@ return [
             'title' => 'Twitter',
             'name' => 'icons.twitter',
             'url' => 'https://x.com/Bhargav__15?t=lThBkBC6g3qff4dvnh0IPA&s=09',
-        ],
-        [
-            'title' => 'Facebook',
-            'name' => 'icons.facebook',
-            'url' => 'https://www.linkedin.com/in/bhargav-lende-4b0232325/',
         ],
         [
             'title' => 'Instagram',
@@ -150,18 +145,18 @@ return [
     'articles' => [
         [
             'id' => '1',
-            'title' => 'Ramdeobaba University',
-            'image' => 'images/featured-article-01.jpeg',
-            'description' => 'Welcome to Ramdeobaba University (RBU), where innovation meets tradition, and excellence is a way of life. Established with a vision to nurture talent, foster creativity, and promote holistic development, RBU stands as a beacon of quality education in India. With a rich history dating back to its inception, the university has continually evolved to meet the ever-changing needs of the educational landscape while upholding its core values of integrity, excellence, and inclusivity.',
-            'category' => 'Technology',
-            'duration' => '6 mins',
-            'date' => 'Aug 9, 2024',
+            'title' => 'Introduction',
+            'image' => 'images/train.png',
+            'description' => 'Myself Bhargav Jayant Lende , a tech driven Engineering student , pursuing my bachleors degree in computer science and engineering with specialization in data science . I look upon to work in a dynamic and collaborative environment .',
+            'category' => 'Objective',
+            'duration' => '3 mins',
+            'date' => 'Aug 28, 2024',
         ],
         [
             'id' => '2',
-            'title' => 'Ramdeobaba University2',
-            'image' => 'images/featured-article-01.jpeg',
-            'description' => 'Welcome to Ramdeobaba University (RBU), where innovation meets tradition, and excellence is a way of life. Established with a vision to nurture talent, foster creativity, and promote holistic development, RBU stands as a beacon of quality education in India. With a rich history dating back to its inception, the university has continually evolved to meet the ever-changing needs of the educational landscape while upholding its core values of integrity, excellence, and inclusivity.',
+            'title' => 'Education',
+            'image' => 'images/edu.png',
+            'description' => 'Ramdeobaba College of Engineering and Management (2023 - 2027)',
             'category' => 'Technology',
             'duration' => '6 mins',
             'date' => 'Aug 9, 2024',

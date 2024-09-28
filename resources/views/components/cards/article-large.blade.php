@@ -48,7 +48,7 @@
         <footer class="flex items-center sm:mt-2">
           <div class="flex items-center text-sm lg:text-[15px]">
             <x-icons.calendar />
-            <span class="ml-1 text-gray-500">Nov 2, 2020</span>
+            <span class="ml-1 text-gray-500">Nov 15, 2020</span>
 
             <span class="hidden items-center sm:flex">
               <x-icons.clock />
