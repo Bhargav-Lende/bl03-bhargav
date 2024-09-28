@@ -127,6 +127,11 @@ return [
             'view' => 'about',
         ],
         [
+            'name' => 'contact',
+            'path' => '/portfolio/contact',
+            'view' => 'contact',
+        ],
+        [
             'name' => 'blog',
             'path' => '/blog/{articleId?}',
             'view' => 'blog',

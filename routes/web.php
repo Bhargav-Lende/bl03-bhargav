@@ -23,3 +23,11 @@ Route::get('/enjoy',function (){
 Route::fallback(function () {
     return view('errors.404');
 })->name("404");
+
+use App\Http\Controllers\ContactController;
+
+Route::get('/contact', function () {
+    return view('contact');
+})->name('contact');
+
+Route::post('/contact/submit', [ContactController::class, 'submit'])->name('contact.submit');
